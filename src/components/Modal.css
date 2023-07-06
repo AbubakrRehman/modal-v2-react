@@ -1,0 +1,23 @@
+.overlay{
+    background-color: rgba(#ff0000, green, blue, 0.5);
+    border:2px solid red;
+}
+
+.main{
+    background-color: white;
+    color: black;
+}
+
+.close__btn{
+    padding:8px;
+    border: none;
+    background-color: black;
+    color: white;
+
+}
+
+.close__btn:hover{
+   cursor: pointer;
+   background-color: grey;
+    
+}
